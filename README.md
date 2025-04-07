@@ -4,7 +4,7 @@ A fun and interactive memory game built with Python and Tkinter. Challenge yours
 
 ## How to Play
 
-- **Practice Mode**: This mode was designed for the sole purpose of learning pi! Enter as many correct digits as you can and if you get stuck or guess an incorrect digit a useful hint will pop up tyo help you continue. A mode like this is what allowed me to learn over 400 digits of pi in high school!
+- **Practice Mode**: This mode was designed for the sole purpose of learning pi! Enter as many correct digits as you can and if you get stuck or guess an incorrect digit a useful hint will pop up to help you continue. A mode like this is what allowed me to learn over 400 digits of pi in high school!
 - **Real Game**: This mode tests your true memory of pi. The game will continue until you make 3 incorrect guesses.
 - **Play with your keyboard or the on-screen buttons** and remember, it always starts with `"3."`.
 
