@@ -1,0 +1,3 @@
+matplotlib
+pandas
+# tkinter and winsound are part of the Python standard library
